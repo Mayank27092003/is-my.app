@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "github": "LesssggooGauravv"
+  },
+  "description": "Zero-cost voice-to-text dictation PWA",
+  "records": {
+    "CNAME": "verbose-app.onrender.com"
+  }
+}
