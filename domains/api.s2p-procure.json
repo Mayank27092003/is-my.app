@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/domain.schema.json",
+  "owner": {
+    "github": "Mayank27092003"
+  },
+  "description": "S2P Procurement SaaS API",
+  "records": {
+    "A": [
+      "5.189.168.151"
+    ]
+  }
+}
