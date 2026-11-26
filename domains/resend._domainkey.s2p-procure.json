@@ -1,0 +1,10 @@
+{
+  "$schema": "../schema/domain.schema.json",
+  "owner": {
+    "github": "Mayank27092003"
+  },
+  "description": "Resend DKIM verification for s2p-procure.is-my.app",
+  "records": {
+    "TXT": "p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCyEy2S3RU7m+XZHXOy9sBHURmuDbt1NDhmo8BZ2LQ2sxNJetUaBNgtssPlaLsoNmBalAQXB/3YK9H/EIFKCfC05DhU+bSxiOq7vMeOdkWADe/uqeIxKysx7Pt5D6tYCVtYFYWy3BjCr3qHoSm8u/K+dWaJdwgVCMlqT7dpuT4keQIDAQAB"
+  }
+}

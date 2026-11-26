@@ -1,0 +1,10 @@
+{
+  "$schema": "../schema/domain.schema.json",
+  "owner": {
+    "github": "Mayank27092003"
+  },
+  "description": "Resend tracking/verification alias for s2p-procure.is-my.app",
+  "records": {
+    "CNAME": "send.forge.rmta.net"
+  }
+}
