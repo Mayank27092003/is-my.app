@@ -1,0 +1,10 @@
+{
+  "$schema": "../schema/domain.schema.json",
+  "owner": {
+    "github": "Mayank27092003"
+  },
+  "description": "S2P Procurement SaaS Platform (Multi-Campus Buyer and Vendor Portal)",
+  "records": {
+    "CNAME": "s2p-procure.netlify.app"
+  }
+}
